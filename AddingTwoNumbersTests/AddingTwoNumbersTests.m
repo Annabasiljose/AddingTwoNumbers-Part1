@@ -29,7 +29,7 @@
     [super tearDown];
 }
 
-- (void)testAdditionClassExists {
+- (void)testAdditionClassExists {ahajabca
     XCTAssertNotNil(addition, @"RSAddition class exists");
 }
 
